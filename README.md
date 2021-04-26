@@ -4,7 +4,7 @@ Site com sistema vendas de pizzas. O projeto conta com modais para escolha do ta
 
   - Desenvolvido durante o curso de JavaScript - B7Web
 
-### LINK DO SITE
+### Link de acesso do site
 https://carolferreiradev.github.io/controlepizzaria/
 
 ### Tecnologias utilizadas
